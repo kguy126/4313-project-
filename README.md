@@ -21,6 +21,22 @@ technique(s) that you are using
 Selenium
 
 
+### Automation with Selenium: 
+TODO
+==Start a new script named test_ui.py, use the same unittest class, test format in the previous challenge, and Import
+selenium libraries including webdriver.==
+In the Unit Test class, leverage Selenium to achieve the following functionality:
+1. Use Selenium to navigate to https://dev.yuride.network
+2. Verify the website title is `Your Website
+3. Make Selenium click the Sign In button on the left
+4. Wait until Passport York Login page is loaded
+5. Use Selenium to enter your own Passport York credentials and login
+6. Click the Send Me a Push button
+7. Wait until you manually confirm the login request on your device
+8. Wait until the login redirect OR click the redirect link
+9. Verify in the body, there's the H1 element with content DASHBOARD (successfully logged in)
+
+
 
 ### Full Description: 
 Full project description can be found in YuRide Web Testing and Learning Challenge
