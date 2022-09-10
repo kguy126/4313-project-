@@ -1,20 +1,18 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
+The goal of this project is to practice white box testing on a real world web application. You will utilize Python and
+Selenium to practice testing on both frontend and backend on a website and the APIs developed by YuRide.
+YuRide is a Ride-Sharing service founded by YorkU Alumni. They allow us to perform testing on their source code and
+web app in order to help you see a real world example and apply your knowldege that you have gained in this course on
+a real project.
+This project consists of 3 parts, and you will write tests cases using the tools outlined below. You must follow good
+coding practice and design in order to achieve good grades for this project:
+• Good test cases are essential for a robust software, and you must write these test cases to cover all the required
+aspects.
+• Test cases should be well-defined, desireably with no duplication, and cover all the edge cases.
+• Documentation principle: Try to write the tests so that it includes all the elements needed to understand the
+technique(s) that you are using
 
 
 
@@ -24,20 +22,10 @@ Selenium
 
 
 
+### Full Description: 
+Full project description can be found in YuRide Web Testing and Learning Challenge
 
-<!-- GETTING STARTED -->
-## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 
 <!-- CONTACT -->
