@@ -43,5 +43,5 @@ This is an example of how to list things you need to use the software and how to
 <!-- CONTACT -->
 ## Contact
 
-email: Kamal.deji.adesanya@gmail.com
+Email: Kamal.deji.adesanya@gmail.com
 
